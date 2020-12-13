@@ -1,0 +1,1 @@
+This contains two scripts, one to identify key sport events by identifying a sudden increase in sound and compile all these events/'highlights'. The other script(doesn't work) help classify different events based on sound.
