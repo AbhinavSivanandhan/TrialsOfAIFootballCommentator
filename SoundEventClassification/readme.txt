@@ -1,1 +1,1 @@
-This contains two scripts, one to identify key sport events by identifying a sudden increase in sound and compile all these events/'highlights'. The other script(doesn't work) help classify different events based on sound.
+This contains two scripts, one to identify key sport events by identifying a sudden increase in sound and compile all these events/'highlights'. The other script(doesn't work) help classify different events based on sound. For now, download a video from youtube, but later use a proper video dataset. Or better yet, run the model live.
