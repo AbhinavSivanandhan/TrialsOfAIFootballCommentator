@@ -20,3 +20,5 @@ A script to detect sound events(doesn't work yet).
 An event/object detection script that currently calculates screentime of 'actors'. (To be modified for our purpose of event detection like goals, fouls etc.)
 
 I tried this project early this year and wasn't able to complete this project. From reading a few deep learning papers ( particularly regarding attention models ) I've planned to work on a seq2seq deep learning model that can include multiple functionalities, rather than modularise this task way too much. I will attempt this task again when I've obtained a deeper understanding of the necessary concepts and task at hand.
+
+Note: Semi-supervised learning using GANs, along with the 'ScreenTimeCalc' Notebook and the Fifa video can help with identifying basic/significant events. That's the easiest first step to be achieved to proceed with the task.
